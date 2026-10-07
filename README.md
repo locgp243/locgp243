@@ -1,93 +1,251 @@
-# Hi, I'm Gia Loc 👋
+<!-- ===================== HEADER ===================== -->
 
-### Full-stack Developer from Vietnam 🇻🇳
+<div align="center">
 
-I enjoy building practical web applications and continuously improving my software development skills.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,20,24,30&text=PHAM%20GIA%20LOC&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20Vietnam&descAlignY=58&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%8C%B8+Welcome+to+my+midnight+coding+bar;%E2%98%95+Code+%E2%80%A2+Music+%E2%80%A2+Build+%E2%80%A2+Repeat;Full-stack+Developer;Turning+ideas+into+real+products..." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=locgp243&label=BAR+VISITORS&color=ff69b4&style=flat-square" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌙 About Me
 
-- 🔭 Currently working on full-stack web projects
-- 🌱 Learning more about modern web development and software architecture
-- 💡 Interested in Frontend, Backend, APIs, and building real-world products
-- 🎯 Goal: Become a professional Full-stack Software Developer
+```javascript
+const giaLoc = {
+    name: "Pham Gia Loc",
+    location: "Vietnam 🇻🇳",
+
+    role: "Full-stack Developer",
+
+    interests: [
+        "Web Development",
+        "Backend Development",
+        "Frontend Development",
+        "Software Architecture"
+    ],
+
+    currentlyLearning: [
+        "Modern Web Development",
+        "Clean Architecture",
+        "Building Better Products"
+    ],
+
+    motto: "Build. Break. Learn. Repeat."
+};
+```
+
+> 🌸 *Somewhere between coffee, music and midnight commits.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🍸 Behind The Bar
+
+<div align="center">
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,redux&theme=dark" />
+
+<br/><br/>
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs&theme=dark" />
 
-### Tools
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode,postman&theme=dark" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌸 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 BeTu Quiz Creator
 
-A full-stack quiz creation application with separate frontend and backend services.
+Full-stack application for creating and managing quizzes.
 
-**Frontend:**  
-https://github.com/locgp243/frontend-betuquizcreator
+**What I worked on**
 
-**Backend:**  
-https://github.com/locgp243/backend-quizcreator
+- Quiz creation
+- Frontend UI
+- Backend API
+- Full-stack integration
 
----
+**Repositories**
+
+[Frontend →](https://github.com/locgp243/frontend-betuquizcreator)
+
+[Backend →](https://github.com/locgp243/backend-quizcreator)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📋 Trello Web
 
-A Trello-inspired web application focused on task and workflow management.
+A Trello-inspired task management application.
 
-https://github.com/locgp243/trello-web
+**Focus**
 
----
+- Modern UI
+- Task management
+- Component architecture
+- Frontend development
+
+**Repository**
+
+[Trello Web →](https://github.com/locgp243/trello-web)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🐈 MeoKhongDen Blog
 
-A personal blog project built to practice and explore web development.
+Personal blog project created while exploring modern web development.
 
-https://github.com/locgp243/meokhongden.blog
+**Focus**
+
+- Web development
+- UI / UX
+- Content
+- Experimentation
+
+**Repository**
+
+[MeoKhongDen Blog →](https://github.com/locgp243/meokhongden.blog)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 The Laboratory
+
+More experiments, side projects and things I've built can be found in my repositories.
+
+<br/>
+
+[Explore all repositories →](https://github.com/locgp243?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🍷 Tonight's GitHub Menu
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locgp243&show_icons=true&hide_border=true&theme=transparent)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=locgp243&layout=compact&hide_border=true&theme=transparent)
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=locgp243&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
 
----
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=locgp243&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=locgp243&theme=transparent&hide_border=true)
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Late Night Streak
 
-[![GitHub](https://img.shields.io/badge/GitHub-locgp243-181717?style=for-the-badge&logo=github)](https://github.com/locgp243)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=locgp243&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+## 🐍 After Midnight
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/locgp243/locgp243/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🎧 Now Playing
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       🌃  MIDNIGHT DEVELOPER RADIO           │
+│                                              │
+│       ▶  Coding...                           │
+│       ━━━━━━━━━━━━━━━━━━━━━━━━  ◉             │
+│                                              │
+│       00:00                    ∞:∞            │
+│                                              │
+│       ♪ coffee / code / chill                │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 🌃 Current Status
+
+```text
+🌙  Status     : Probably coding
+☕  Fuel       : Coffee
+🎧  Mode       : Focus
+🌸  Atmosphere : Midnight Sakura
+💻  Mission    : Build something worth shipping
+```
+
+---
+
+## 🥃 Find Me At The Bar
+
+<div align="center">
+
+<a href="https://github.com/locgp243">
+  <img src="https://img.shields.io/badge/GitHub-locgp243-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!--
+Thêm LinkedIn của bạn bằng cách bỏ comment:
+
+<a href="LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Gia%20Loc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+-->
+
+<!--
+Thêm portfolio:
+
+<a href="PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+-->
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌸 Thanks for stopping by.
+
+*"The bar never closes. The code never sleeps."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20,24,30&section=footer" width="100%" />
+
+</div>
